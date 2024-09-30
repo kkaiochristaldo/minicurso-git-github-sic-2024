@@ -16,22 +16,24 @@
 
 ### Participantes:
 
-<div align="center">
-  <a href="https://github.com/kaiochristaldo">
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-  </a>
-  <br>
-  <h3>
-    <a href="https://github.com/kaiochristaldo">Kaio Christaldo</a>
-  </h3>
-</div>
-<div align="center">
-  <a href="https://github.com/kaiochristaldo">
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-  </a>
-  <br>
-  <h3>
-    <a href="https://github.com/kaiochristaldo">Kaio Christaldo</a>
-  </h3>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kaiochristaldo">
+        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
+      </a>
+      <br>
+      <a href="https://github.com/kaiochristaldo">Kaio Christaldo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/outroperfil">
+        <img src="https://avatars.githubusercontent.com/u/outroid?v=4" alt="Descrição da foto" width="50" height="50">
+      </a>
+      <br>
+      <a href="https://github.com/outroperfil">Outro Nome</a>
+    </td>
+    <!-- Adicione mais perfis conforme necessário -->
+  </tr>
+</table>
+
 
