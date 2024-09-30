@@ -7,7 +7,7 @@
 
 ### Ministrante
 
-<div style="width:500px; justify-center: space-between; display:flex; align-items: center;"> 
+<div style="width:500px; background: black; display:flex; justify-content: space-around;"> 
     <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
     <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
     <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
