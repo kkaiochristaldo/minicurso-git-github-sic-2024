@@ -8,7 +8,7 @@
 ### Ministrante
 
 <div> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" class="estilo"/> 
+    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="300" heigth="300" style="border-radius:50%;"/> 
 </div>
 
 
