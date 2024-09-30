@@ -5,7 +5,12 @@
 
 ## Minicurso de Git e Github na Prática
 
-### [ ![Kaio](https://avatars.githubusercontent.com/u/49682105?v=4&size=64) [Kaio Christaldo](https://github.com/kkaiochristaldo)]
+### Ministrante
+
+<div> 
+    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" class="estilo"/> 
+</div>
+
 
 ## Contribuidores / Participantes
 
