@@ -7,20 +7,11 @@
 
 ### Ministrante
 
-<div style="width:500px; background: black; display:flex; justify-content: space-around;"> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    <img src="https://avatars.githubusercontent.com/u/49682105?v=4" width="100" heigth="100" style="border-radius:50%;"/> 
-    
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h2>Kaio Christaldo</h2>
 </div>
+
 
 
 ## Contribuidores / Participantes
