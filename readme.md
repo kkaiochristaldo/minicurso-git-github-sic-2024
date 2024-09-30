@@ -8,13 +8,32 @@
 ### Ministrante
 
 <div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h2>Kaio Christaldo</h2>
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
 </div>
-
-
-
 ## Contribuidores / Participantes
-
+<div>
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
+</div>
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
+</div>
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
+</div>
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
+</div>
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width: 50px; height: 50px;">
+  <h3>Kaio Christaldo</h3>
+</div>
+  
+</div>
 
 
