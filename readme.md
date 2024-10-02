@@ -22,6 +22,9 @@
 
 <table>
   <tr>
-    Adicione aqui ...
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/88625381?v=4&size=64" alt="Descrição da foto" width="50" height="50">
+        <p>Arthur Kenji Murakami</p>
+    </td>
   </tr>
 </table>
