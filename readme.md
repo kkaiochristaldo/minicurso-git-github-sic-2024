@@ -1,9 +1,9 @@
 
 
 
-# SIC 2024
+# ✨ SIC 2024 ✨ 
 
-## Minicurso de Git e Github na Prática
+## ✨ Minicurso de Git e Github na Prática ✨ 
 
 ### Ministrante:
 
