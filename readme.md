@@ -22,41 +22,6 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/kkaiochristaldo">
-        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-        <p>Kaio Christaldo</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kkaiochristaldo">
-        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-        <p>Kaio Christaldo</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kkaiochristaldo">
-        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-        <p>Kaio Christaldo</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kkaiochristaldo">
-        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-        <p>Kaio Christaldo</p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kkaiochristaldo">
-        <img src="https://avatars.githubusercontent.com/u/49682105?v=4" alt="Descrição da foto" width="50" height="50">
-        <p>Kaio Christaldo</p>
-      </a>
-    </td>
+    Adicione aqui ...
   </tr>
 </table>
-
-
-END
-
